@@ -1,0 +1,12 @@
+● Expression
+Defining the Expression of a variable through a list.
+
+● Operator
+Symbols which are used for math operations. (Equals, Plus, Greater than, Etc)
+
+● Evaluate
+
+● Precedence
+
+● Floating-point
+A Floating point is a 'real' number. like 98.5, or 900,000
